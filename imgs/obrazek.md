@@ -9,6 +9,8 @@ https://cs.wikipedia.org/wiki/Lev
 https://cs.wikipedia.org/wiki/Pes_dom%C3%A1c%C3%AD
 
 https://en.wikipedia.org/wiki/Artificial_intelligence
+
+https://en.wikipedia.org/wiki/Sahara
 <img width="2560" height="1440" alt="ag3" src="https://github.com/user-attachments/assets/657bbf60-d71d-435a-a3a9-c18185f30b10" />
 
 

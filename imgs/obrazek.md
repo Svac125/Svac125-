@@ -12,6 +12,7 @@ https://en.wikipedia.org/wiki/Artificial_intelligence
 
 https://en.wikipedia.org/wiki/Sahara
 
+Největší poušť na světě:
 <img width="3840" height="2160" alt="ag4" src="https://github.com/user-attachments/assets/8c7a459e-4ce5-490b-8263-268445910fb5" />
 Král zvířat:
 <img width="2560" height="1440" alt="ag3" src="https://github.com/user-attachments/assets/657bbf60-d71d-435a-a3a9-c18185f30b10" />
